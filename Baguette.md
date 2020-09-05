@@ -28,7 +28,7 @@ Note: Overnight retarding recommended for best results, but can be done on same 
 
 ### First proofing
 + Place dough in a large, oiled bowl and cover.
-  + For best results, let proof overnight in refigerator (retarding).
+  + For best results, let proof overnight in refrigerator (retarding).
   + If baguettes must be baked on same day, allow to proof in warm place until doubled in size (about 1 to 2 hours).
 
 ### Shaping
