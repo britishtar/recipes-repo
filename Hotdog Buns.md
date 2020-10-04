@@ -44,7 +44,7 @@ NOTE: Requires overnight retarding
 
 ### Baking
 + Brush the buns with an egg wash (whisked egg)
-+ Bake buns until golden brown and hollow-sounding when tapped (about 15 - 20 mins)
++ Bake buns until golden brown and hollow-sounding when tapped (about 25 - 30 mins)
 + Allow to cool on cooling rack to prevent sweating
 
 ***
