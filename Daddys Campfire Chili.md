@@ -40,5 +40,5 @@ NOTES:
 *NOTE: This is a markdown file. For best results to print, use the python **grip** module, and Google Chrome to view/print:*
 ```console
 python -m pip install grip
-grip -b Baguette.md
+grip -b <filename>.md
 ```
