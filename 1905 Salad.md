@@ -17,7 +17,7 @@
 * 1 cup Swiss cheese, julienned
 * 1 cup ham, julienned
 * 8 ounces spanish olives with pimentos
-* 1/4 cup Romano cheese
+* 1/4 cup Romano cheese, grated
 ***
 ## Instructions
 ### Dressing

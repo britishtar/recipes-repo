@@ -10,7 +10,7 @@ NOTES:
 + 5 strips of smoked bacon, cut in half crosswise to make 10 shorter strips
 + 1 lb. ground beef (use 80/20 for best results!)
 + Liquid smoke
-+ Cumin
++ Ground cumin
 + Garlic powder
 + Paprika
 + Salt
@@ -27,7 +27,8 @@ NOTES:
 + Add ground beef and brown the meat over med/low heat, stirring constantly.
 + Season with cumin, garlic powder, paprika, and salt to taste. It should taste like delicious, savory taco meat.
 + Add in a squirt or two of liquid smoke.
-+ Stir in bone broth, bacon, and kidney beans and bring to a simmer.
++ Stir in bone broth and kidney beans and bring to a simmer.
++ Cut the bacon strips into ~3/4 inch, bite-sized pieces, and add to the pot.
 + Finally, add in the diced tomatoes (liquid and all).
 + Stir, cover, and reduce to lowest heat setting.
 + Allow flavors to blend together, continuing to simmer over low heat for ~30 mins or up to several hours.

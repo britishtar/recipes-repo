@@ -31,7 +31,7 @@
 
 ### Prepare the base
 + In a dutch oven (oven safe! no plastic handles!), heat 1/4 cup ghee over high heat, stir in salt.
-+ Add in the onions and saute until browned (~10 mins), stirring constantly--DO NOT BURN!
++ Add in the onions and saute until well-browned (~10 mins), stirring constantly--DO NOT BURN!
 
 ### Prepare the topping
 + In a separate skillet, saute the julienned carrots in 1 tbsp of ghee, along with the 1.5 tbsp sugar.
@@ -41,12 +41,12 @@
 + Make a pouch out of aluminum foil, and seal up carrot/raisin mixture in the pouch. Set aside until baking step.  
 
 ### Boil the rice
-+ Boil the rice in 6-7 cups of water until al dente (~5-10 mins)--do not overcook.
++ Boil the rice in 6-7 cups of water until al dente (~5-10 mins)
 + Strain rice in a colander.
 
 ### Combine and bake
 + Add strained al dente rice to the onion mixture in the dutch oven.
-+ Add cumin, cardamom, and black pepper. Stir well to blend flavors.
++ Add cumin, cardamom, and black pepper. Stir well to blend flavors. If necessary, add in 1-2 tsp Kitchen Bouquet browning sauce to get the characteristic brown color.
 + Add in the pouch with topping, cover the dutch oven, and bake at 500 deg for ~10 mins, then reduce heat to 250 deg, and continue baking for ~20 mins.
 
 ***
