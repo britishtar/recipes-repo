@@ -6,7 +6,7 @@
   + ("Conecuh" brand cajun-style smoked sausage works nicely)
 + 1 large chicken breast
 + ~1 tsp canola oil
-+ Tony Chachere's original creole seasoning
++ ~1 1/2 tsp Tony Chachere's original creole seasoning
 + 3 spoonfuls ghee (clarified butter), can substitute cooking oil of choice
 + 1 cup long-grain white rice
 + 1/2 red bell pepper, chopped

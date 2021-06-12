@@ -8,7 +8,7 @@ Note: Overnight retarding recommended for best results, but can be done on same 
 + 16 oz all-purpose flour (or bread flour)
   + about 2 cups
 + 1 1/2 tsp salt
-+ 1 1/2 cup cool water (probably not all needed)
++ 1 1/2 cup warm water (probably not all needed)
 ***
 ## Instructions
 
